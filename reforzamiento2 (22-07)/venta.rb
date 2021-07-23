@@ -1,6 +1,7 @@
 require_relative "generador_productos"
 
-class GeneradorPedidos
+class Venta
+
 
     attr_reader :pedido
 
